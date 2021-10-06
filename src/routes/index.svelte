@@ -12,7 +12,6 @@
 </script>
 
 <script>
-	export let document
 </script>
 
 <h1>Welcome to SvelteKittery</h1>
